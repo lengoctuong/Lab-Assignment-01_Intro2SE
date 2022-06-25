@@ -14,6 +14,6 @@ app.use(bodyParser.json())
 // app.use(morgan('combined'))
 app.use('/users', usersRouters)
 
-app.get('/', (req, res) => res.send('Hello Web'))
+app.get('/', (req, res) => res.send('API with node.js'))
 
 app.listen(port, () => console.log(`Server running on port: http://localhost:${port}`))
