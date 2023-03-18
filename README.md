@@ -7,3 +7,14 @@ sign(x) = \left\{
     \end{array}
 \right.
 $$
+
+\\
+
+$$
+ \left.
+    \begin{array} \\
+        \alpha^2 = \sqrt5 \\
+        \alpha \geq 0 
+    \end{array}
+\right \} \alpha = 5 
+$$
